@@ -1,1 +1,1 @@
-# alx-low_level_programming
+This repository consists of all the C programming projects 
